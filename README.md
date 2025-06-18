@@ -1,5 +1,5 @@
 # Elevator Optimal Waiting Position
-This project was completed for **Assignment 1: Data Collection and Analysis** in a Data Science course at Boston University. The goal was to determine the best location to wait for an elevator in the CDS building lobby, minimizing expected walking distance based on collected arrival data.
+This project was completed for **Assignment 1: Data Collection and Analysis** in CS506: Computing and Data Science at Boston University. The goal was to determine the best location to wait for an elevator in the CDS building lobby, minimizing expected walking distance based on collected arrival data.
 
 ## Objective
 Using a shared dataset of elevator arrival times collected by the class, we analyzed elevator usage patterns and used statistical and spatial reasoning to compute the optimal place to wait for an elevator.
